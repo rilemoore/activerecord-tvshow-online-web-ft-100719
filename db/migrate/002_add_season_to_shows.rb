@@ -1,1 +1,1 @@
-class AddSeasonToShows < ActiveRecord:
+class AddSeasonToShows < ActiveRecord::Migration
