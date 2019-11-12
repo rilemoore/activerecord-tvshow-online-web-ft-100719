@@ -16,9 +16,16 @@ class Show < ActiveRecord::Base
     
   end
   
-  def 
+  def self.ratings_sum
   
   end
   
+  def self.popular_shows
+    
+  end
+  
+  def self.shows_by_alphabetical_order
+    
+  end
   
 end
